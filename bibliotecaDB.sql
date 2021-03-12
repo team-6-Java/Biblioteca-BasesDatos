@@ -58,8 +58,10 @@ valoracion_libro varchar(255),
 fecha_prestamo date not null,
 fecha_devolucion date,
 usuario varchar(255),
+libro int,
 primary key (id),
-foreign key (usuario) references Usuario(username) on delete cascade on update cascade
+foreign key (usuario) references Usuario(username) on delete cascade on update cascade,
+foreign key (libro) references Libro(id) on delete cascade on update cascade
 );
 
 create table Mensajes(
