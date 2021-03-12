@@ -1,5 +1,6 @@
 # Proyecto Final - Biblioteca
 
+![banerGit](https://github.com/team-6-Java/recursos/blob/main/banner.jpg)
 
 ### Equipo de desarrollo:
 
