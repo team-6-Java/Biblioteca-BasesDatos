@@ -11,8 +11,7 @@
 
 ### 1. Descripción
 
-2 Ejercicios  relacionado con:
-Modelo Vista Controlador -
+ -
 CC21_REUS_JavaAngular_2
 
 ###  2. Link a un demo con el proyecto desplegado:
