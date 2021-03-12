@@ -11,16 +11,26 @@
 
 ### 1. Descripción
 
- -
-CC21_REUS_JavaAngular_2
+En este repositorio se encuentran todos los archivos relacionados con el proceso de creacion de la base de datos del proyecto final.
+ 
+Las diferentes secciones estan separadas por ramas:
+```
+ - Diagrama-E.R-y-M.R
+
+ - Database-MySQL
+ 
+ - InsertsDatabases
+ 
+```
 
 ###  2. Link a un demo con el proyecto desplegado:
 
 Repositorio de los ejercicios:
 ```
-https://github.com/cesar-torrelles/UD22
+https://github.com/team-6-Java/ProyectoFinal-BasesDatos
 ```
 ###   3. Lista de herramientas para poder ejecutarlo:
 ```
-Eclipse IDE for Java Developers | Version: 2020-06 (4.16.0)
+MySQL WORKBENCH 8.0
+
 ```
