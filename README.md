@@ -10,11 +10,9 @@
 | Cesar Torrelles | Dev 2 | FullStack Developer | 01/02/2021 |  Proyecto BBP  | 1.0  | 
 | Giovanny Rodriguez | Dev 3 | FullStack Developer| 01/02/2021 |  Proyecto BBP | 1.0  |
 
-### 1. Descripción
+### 1. Descripción del proyecto: 
 
-En este repositorio se encuentran todos los archivos relacionados con el proceso de creacion de la base de datos del proyecto final.
- 
-Las diferentes secciones estan separadas por ramas:
+BBP es una aplicación web, que permite a los empleados de T-Systems contactar con otros compañeros/as para prestarse libros fisicos al mismo tiempo que permite crear relaciones de amistad. Que mejor excusa para empezar a leer.
 ```
  - Diagrama-E.R-y-M.R
 
@@ -45,3 +43,6 @@ https://github.com/team-6-Java/ProyectoFinal-BasesDatos
 |                       |Ajax	| |
 |                       |JQuery	| |
 |                       |Angular|  |
+
+
+###  4.Capturas del proyecto BBP:
