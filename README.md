@@ -6,9 +6,9 @@
 
 | Developer | Rama | Rol | Fecha Incorporación | Proyecto | Versión |
 | --- | :---:  | :---:  | :---:  | :---: | :---:  |
-| Victor Lozano | Dev 1 | FullStack Developer | 01/02/2021 | Proyecto Final | 1.0  |
-| Cesar Torrelles | Dev 2 | FullStack Developer | 01/02/2021 |  Proyecto Final  | 1.0  | 
-| Giovanny Rodriguez | Dev 3 | FullStack Developer| 01/02/2021 |  Proyecto Final  | 1.0  |
+| Victor Lozano | Dev 1 | FullStack Developer | 01/02/2021 | Proyecto BBP| 1.0  |
+| Cesar Torrelles | Dev 2 | FullStack Developer | 01/02/2021 |  Proyecto BBP  | 1.0  | 
+| Giovanny Rodriguez | Dev 3 | FullStack Developer| 01/02/2021 |  Proyecto BBP | 1.0  |
 
 ### 1. Descripción
 
