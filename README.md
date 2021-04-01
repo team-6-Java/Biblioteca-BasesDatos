@@ -43,4 +43,4 @@ MySQL WORKBENCH 8.0
 |                       |TypeScript	| |
 |                       |Ajax	| |
 |                       |JQuery	| |
-```
+
