@@ -33,14 +33,14 @@ https://github.com/team-6-Java/ProyectoFinal-BasesDatos
 ###   3. Lista de herramientas para poder ejecutarlo:
 ```
 MySQL WORKBENCH 8.0
-|Herramientas	|Tecnologías|	Dependencias|
-|Spring Boot Deep Tools	|Java8|	Spring Web|
-|MySQL| Workbench 8.0	|Angular|	Spring Boot Dev Tools|
-|Postman|	CSS	|Spring Security|
-|Fedora	|HTML	|MySQL driver|
-|Día	|BootStrap	|Spring data JPA|
-|JavaScript	|
-|TypeScript	|
-|Ajax	|
-|JQuery	|
+|Herramientas          	|Tecnologías      |	Dependencias|
+|Spring Boot Deep Tools	|Java8            |	Spring Web|
+|MySQL                  | Workbench 8.0  	|Angular|	Spring Boot Dev Tools|
+|Postman                |	CSS            	|Spring Security|
+|Fedora	                |HTML	            |MySQL driver|
+|Día	                   |BootStrap	       |Spring data JPA|
+|                       |JavaScript	| |
+|                       |TypeScript	| |
+|                       |Ajax	| |
+|                       |JQuery	| |
 ```
