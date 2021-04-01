@@ -31,7 +31,7 @@ Repositorio de los ejercicios:
 https://github.com/team-6-Java/ProyectoFinal-BasesDatos
 ```
 ###   3. Lista de herramientas para poder ejecutarlo:
-```
+
 MySQL WORKBENCH 8.0
 |Herramientas          	|Tecnologías      |	Dependencias|
 |Spring Boot Deep Tools	|Java8            |	Spring Web|
